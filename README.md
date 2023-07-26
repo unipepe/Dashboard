@@ -15,7 +15,7 @@ Visualización de datos - PowerBI
 ¿Cómo ha cambiado el número de empleados de la empresa a lo largo del tiempo en función de las fechas de contratación y mandato?
 ¿Cuál es la distribución de la tenencia para cada departamento?
 # Resumen de resultados
-Hay más empleados hombres
+Hay más empleados hombres.
 La raza blanca es la más dominante, mientras que los nativos hawaianos y los indios americanos son los menos dominantes.
 El empleado más joven tiene 20 años y el mayor 57 años.
 Se crearon 5 grupos de edad (18-24, 25-34, 35-44, 45-54, 55-64). Un gran número de empleados tenía entre 25 y 34 años, seguido de 35 a 44, mientras que el grupo más pequeño tenía entre 55 y 64 años.
