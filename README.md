@@ -2,30 +2,31 @@
 Datos de recursos humanos con más de 22000 filas desde el año 2000 hasta el 2020. 
 Análisis y Data Cleaning - MySQL Workbench 
 Visualización de datos - PowerBI
-# Questions
-What is the gender breakdown of employees in the company?
-What is the race/ethnicity breakdown of employees in the company?
-What is the age distribution of employees in the company?
-How many employees work at headquarters versus remote locations?
-What is the average length of employment for employees who have been terminated?
-How does the gender distribution vary across departments and job titles?
-What is the distribution of job titles across the company?
-Which department has the highest turnover rate?
-What is the distribution of employees across locations by state?
-How has the company's employee count changed over time based on hire and term dates?
-What is the tenure distribution for each department?
-# Summary of Findings
-There are more male employees
-White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
-The youngest employee is 20 years old and the oldest is 57 years old
-5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64.
-A large number of employees work at the headquarters versus remotely.
-The average length of employment for terminated employees is around 7 years.
-The gender distribution across departments is fairly balanced but there are generally more male than female employees.
-The Marketing department has the highest turnover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
-A large number of employees come from the state of Ohio.
-The net change in employees has increased over the years.
-The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
-# Limitations
-Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
-Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
+# Preguntas
+¿Cuál es la distribución por género de los empleados en la empresa?
+¿Cuál es la distribución por raza/etnicidad de los empleados de la empresa?
+¿Cuál es la distribución por edades de los empleados en la empresa?
+¿Cuántos empleados trabajan en la sede central en comparación con las ubicaciones remotas?
+¿Cuál es la duración promedio del empleo de los empleados que han sido despedidos?
+¿Cómo varía la distribución de género entre departamentos y puestos de trabajo?
+¿Cuál es la distribución de los puestos de trabajo en la empresa?
+¿Qué departamento tiene la tasa de rotación más alta?
+¿Cuál es la distribución de empleados en todas las ubicaciones por estado?
+¿Cómo ha cambiado el número de empleados de la empresa a lo largo del tiempo en función de las fechas de contratación y mandato?
+¿Cuál es la distribución de la tenencia para cada departamento?
+# Resumen de resultados
+Hay más empleados hombres
+La raza blanca es la más dominante, mientras que los nativos hawaianos y los indios americanos son los menos dominantes.
+El empleado más joven tiene 20 años y el mayor 57 años.
+Se crearon 5 grupos de edad (18-24, 25-34, 35-44, 45-54, 55-64). Un gran número de empleados tenía entre 25 y 34 años, seguido de 35 a 44, mientras que el grupo más pequeño tenía entre 55 y 64 años.
+Una gran cantidad de empleados trabajan en la sede en lugar de de forma remota.
+La duración media de empleo de los empleados despedidos es de alrededor de 7 años.
+La distribución de género en los departamentos es bastante equilibrada, pero generalmente hay más empleados hombres que mujeres.
+El departamento de Marketing presenta la mayor tasa de rotación seguido de Formación. La menor tasa de rotación se encuentra en los departamentos de Investigación y desarrollo, Soporte y Legal.
+Una gran cantidad de empleados provienen del estado de Ohio.
+El cambio neto en los empleados ha aumentado a lo largo de los años.
+La permanencia promedio de cada departamento es de aproximadamente 8 años, siendo Legal y Auditoría la más alta y Servicios, Ventas y Marketing la más baja.
+# Limitaciones
+Algunos registros tenían edades negativas y estos fueron excluidos durante la consulta (967 registros). Las edades utilizadas fueron de 18 años en adelante.
+Algunas fechas de término estaban muy lejanas en el futuro y no se incluyeron en el análisis (1599 registros). Las únicas fechas de término utilizadas fueron aquellas menores o iguales a la fecha actual.
+
