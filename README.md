@@ -1,6 +1,8 @@
 # Dashboard
 Datos de recursos humanos con más de 22000 filas desde el año 2000 hasta el 2020. 
+
 Análisis y Data Cleaning - MySQL Workbench 
+
 Visualización de datos - PowerBI
 # Preguntas
 ¿Cuál es la distribución por género de los empleados en la empresa?
