@@ -37,7 +37,7 @@ Se crearon 5 grupos de edad (18-24, 25-34, 35-44, 45-54, 55-64). Un gran número
 
 Una gran cantidad de empleados trabajan en la sede en lugar de de forma remota.
 
-La duración media de empleo de los empleados despedidos es de alrededor de 7 años.
+La duración media de empleo de los empleados despedidos es de alrededor de 8 años.
 
 La distribución de género en los departamentos es bastante equilibrada, pero generalmente hay más empleados hombres que mujeres.
 
