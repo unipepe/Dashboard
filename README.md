@@ -1,5 +1,8 @@
 # Dashboard
 ![IMG3](https://github.com/unipepe/Dashboard/assets/122136520/99597330-3714-46b3-8934-669b7347d9a1)
+
+![IMG4](https://github.com/unipepe/Dashboard/assets/122136520/b7492b84-5515-4ea8-a99b-5bb28f9fcf09)
+
 # Datos usados
 Datos de recursos humanos con más de 22000 filas desde el año 2000 hasta el 2020. 
 
